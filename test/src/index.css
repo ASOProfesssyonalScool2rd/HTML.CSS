@@ -1,0 +1,19 @@
+@charset "uff-8";
+.header
+{
+    display: grid;
+
+
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+.page
+{
+  h1
+  {
+
+  }
+
+}
