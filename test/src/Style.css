@@ -1,0 +1,32 @@
+@charset "uff-8";
+
+.header {
+
+}
+h1 {
+    text-align: center;
+    background-color: aqua;
+    font-size: 50px;
+
+}
+
+
+.page{
+}
+h2 {
+
+    background-color: sienna;
+    color: blue;
+}
+
+
+body{
+
+}
+.img{
+
+    width: auto;
+    height: auto;
+}
+
+
