@@ -3,7 +3,7 @@
 .header h1,h2,h3,h4,h5,h6 {
     margin-top: 0px;
 }
-h1 {
+.header {
 
     width:960px ;
     height: 70px;
@@ -15,39 +15,7 @@ h1 {
 }
 
 
-.page {
 
-    color: white;
-
-
-}
-h2 {
-float: right;
-    word-break: normal;
-    color: #3583aa;
-    margin: 0px 20px;
-}
-h2:visited
-{
-
-    color: #788d98;
-}
-h3{
-    color: #3583aa;
-float: right;
-    word-break: normal;
-    margin: 0px 20px;
-}
-h3:visited
-{
-    color: #788d98;
-
-}
-.Profile{
-    color: #3583aa;
-    float: right;
-
-}
 body{
 background-image: url("maxresdefault.jpg");
     background-size: cover;
@@ -55,6 +23,7 @@ background-image: url("maxresdefault.jpg");
     height: 100%;
     object-fit: contain;
 }
-.page2{
-
+.profile
+{
+  color: white;
 }
