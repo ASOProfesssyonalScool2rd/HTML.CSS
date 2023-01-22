@@ -25,6 +25,15 @@ background-image: url("Fm-e8IZagAA0rhH.jpg");
 }
 .profile
 {
-  color: white;
+  color: black;
+
+}
+
+.main{
+    float: right;
+    margin: 0px 100px 100px 170px;
+}
+.photo
+{
 
 }
