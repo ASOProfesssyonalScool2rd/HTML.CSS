@@ -19,21 +19,23 @@
 body{
 background-image: url("Fm-e8IZagAA0rhH.jpg");
     background-size: cover;
-    width: 100%;
-    height: 100%;
+    width: 1980px;
+    height: 1115px;
     object-fit: contain;
 }
-.profile
-{
-  color: black;
-
+.profile {
+    color: black;
 }
 
 .main{
     float: right;
     margin: 0px 100px 100px 170px;
 }
-.photo
-{
-
+.photo {
+    background-image: url("D1dWWYOVAAEAaAa.jpg");
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+    margin: 100px 100px 100px 300px; /*marginは左下上右の順で書く*/
 }
