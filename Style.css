@@ -40,3 +40,7 @@ background-image: url("YouTube - 個人 - Microsoft​ Edge 2022_12_30 13_44_20.
     object-fit: contain;
     margin: 0px 500px 200px 50px; /*marginは上右下左の順で書く*/
 }
+.copy {
+
+    text-align: center;
+}
