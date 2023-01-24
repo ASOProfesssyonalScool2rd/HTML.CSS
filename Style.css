@@ -17,10 +17,10 @@
 
 
 body{
-background-image: url("Fm-e8IZagAA0rhH.jpg");
+background-image: url("YouTube - 個人 - Microsoft​ Edge 2022_12_30 13_44_20.png");
     background-size: cover;
-    width: 1980px;
-    height: 1115px;
+    width: 1920px;
+    height: 1080px;
     object-fit: contain;
 }
 .profile {
@@ -28,8 +28,9 @@ background-image: url("Fm-e8IZagAA0rhH.jpg");
 }
 
 .main{
+    color: darkred;
     float: right;
-    margin: 0px 100px 100px 170px;
+    margin: 0px 890px 100px 10px; /*marginは上右下左の順で書く*/
 }
 .photo {
     background-image: url("D1dWWYOVAAEAaAa.jpg");
@@ -37,5 +38,5 @@ background-image: url("Fm-e8IZagAA0rhH.jpg");
     width: 400px;
     height: 400px;
     object-fit: contain;
-    margin: 100px 100px 100px 300px; /*marginは左下上右の順で書く*/
+    margin: 0px 500px 200px 50px; /*marginは上右下左の順で書く*/
 }
