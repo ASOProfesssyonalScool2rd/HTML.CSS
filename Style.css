@@ -30,7 +30,7 @@ background-image: url("YouTube - 個人 - Microsoft​ Edge 2022_12_30 13_44_20.
 .main{
     color: darkred;
     float: right;
-    margin: 0px 890px 100px 10px; /*marginは上右下左の順で書く*/
+    margin: 0px 870px 100px 10px; /*marginは上右下左の順で書く*/
 }
 .photo {
     background-image: url("D1dWWYOVAAEAaAa.jpg");
