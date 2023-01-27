@@ -30,7 +30,7 @@ background-image: url("お話しながらお絵かきする【_01】 - YouTube -
 .main{
     color: black;
     float: right;
-    margin: 0px 0px 100px 200px; /*marginは上右下左の順で書く*/
+    margin: 0px 50px 100px 100px; /*marginは上右下左の順で書く*/
 }
 .photo {
     background-image: url("D1dWWYOVAAEAaAa.jpg");
