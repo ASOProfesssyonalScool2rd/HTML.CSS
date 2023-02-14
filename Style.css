@@ -45,3 +45,16 @@ background-image: url("お話しながらお絵かきする【_01】 - YouTube -
     text-align: center;
     margin: 0px 400px 0px 600px;
 }
+.QR1{
+    /*width: 273px;*/
+    /*height: 273px;*/
+}
+.QR2{
+    /*width: 280px;*/
+    /*height: 280px;*/
+}
+#QR{
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
